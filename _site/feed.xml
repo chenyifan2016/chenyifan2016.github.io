@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陈依凡的博客</title>
+    <description>Collection of everythings I want to record down especially for tech</description>
+    <link>http://chenyifan2016.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 17 Jan 2016 23:41:38 +0800</pubDate>
+    <lastBuildDate>Sun, 17 Jan 2016 23:41:38 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>我和乒乓球世界冠军--打了一场球</title>
+        <description>&lt;hr /&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;乒乓球世界冠军-丁毅&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pingpang/dingyi/dingyi.jpg&quot; alt=&quot;dingyi&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;相片&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pingpang/dingyi/heying1.jpg&quot; alt=&quot;heying1.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/pingpang/dingyi/heying2.jpg&quot; alt=&quot;heying2.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/pingpang/dingyi/heying3.jpg&quot; alt=&quot;heying3.jpg&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/pingpang/dingyi/daqiu1.jpg&quot; alt=&quot;daqiu1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;收获&lt;/h2&gt;
+
+&lt;p&gt;和世界冠军打了一场球，让我更加热爱乒乓球了。我一定要加把力，不怕苦，不怕累，顽强拼搏，打好每一个球！&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 17 Jan 2016 00:00:00 +0800</pubDate>
+	<link>http://chenyifan2016.github.io/pingpang/dingyi/</link>
+	<guid isPermaLink="true">http://chenyifan2016.github.io/pingpang/dingyi/</guid>
+        
+        
+        <category>pingpang</category>
+        
+      </item>
+    
+  </channel>
+</rss>
