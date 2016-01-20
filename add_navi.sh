@@ -22,7 +22,7 @@ echor "第2个参数为对应拼音名或是英文名，"
 
 echo "修改_data/navigation.yml"
 echo >> _data/navigation.yml
-echo "- title: $1" >> _data/navigation.yml
+echo "- title: $0" >> _data/navigation.yml
 echo "  url: /$2/" >> _data/navigation.yml
 
 echog =================
@@ -31,6 +31,7 @@ echog =================
 echo "创建$2 to $2/index.md"
 [ -d $2 ] && rm -rf $2
 mkdir $2
+mkdir _posts/$2
 
 cat index.md.template | sed -e "s/myexcerpt/$1/" -e "s/name/$2/">$2/index.md
 
