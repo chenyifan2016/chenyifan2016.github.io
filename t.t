@@ -5,5 +5,5 @@ categories: yyyyy
 toc: true
 ads: true
 image:
-     teaser: /pingpang/dingyi/dingyi-me-head.jpg
+     teaser: /teaser/bk.jpg
 ---
