@@ -5,14 +5,17 @@
   excerpt: 
   image: 
 
-- title: 乒乓
-  url: /pingpang/
-
-- title: 我的语文
-  url: /chinese/
-
-- title: 测试
-  url: /test/
-
 - title: 生活
   url: /life/
+
+- title: 语文
+  url: /chinese/
+
+- title: 英语
+  url: /english/
+
+- title: 数学
+  url: /math/
+
+- title: 乒乓
+  url: /pingpang/
