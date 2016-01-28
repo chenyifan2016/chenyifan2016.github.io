@@ -4,8 +4,6 @@ permalink: /
 title: "Latest Posts"
 image: 
     feature: cover.jpg
-    credit: chenyifan
-    creditlink: aa
 ---
 
 <div class="tiles">
