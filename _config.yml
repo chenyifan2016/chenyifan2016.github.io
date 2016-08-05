@@ -38,7 +38,7 @@ owner:
     ad-slot: "9439014959"
   bio: 
   avatar: logo_yifan.jpg # 160x160 px image for author byline
-disqus-shortname: chenyifan
+disqus-shortname: chenyifan2016-github-io
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
